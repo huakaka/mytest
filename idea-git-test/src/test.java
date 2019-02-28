@@ -9,4 +9,9 @@ public class test {
         System.out.println("hello git4");
         System.out.println("hello git5");
     }
+    public void test(){
+        int i = 1;
+        i +=2;
+        System.out.println(i);
+    }
 }
