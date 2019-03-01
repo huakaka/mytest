@@ -13,7 +13,7 @@ public class test {
         int i = 1;
         i +=2;
 		i +=2;
-		i -=3;
+		i -=10;
 	System.out.println(i);
     }
 }
