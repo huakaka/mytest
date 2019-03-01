@@ -12,6 +12,7 @@ public class test {
     public void test(){
         int i = 1;
         i +=2;
+		i +=2;
         System.out.println(i);
     }
 }
