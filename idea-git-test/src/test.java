@@ -12,11 +12,8 @@ public class test {
     public void test(){
         int i = 1;
         i +=2;
-<<<<<<< HEAD
 		i +=2;
-=======
-		i -=1;
->>>>>>> d00745bfc179ff24f6518b9a8d458b447ec63d7d
-        System.out.println(i);
+		i -=3;
+	System.out.println(i);
     }
 }
