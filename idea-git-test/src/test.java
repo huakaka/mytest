@@ -13,7 +13,9 @@ public class test {
         int i = 1;
         i +=2;
 		i +=2;
-		i -=30;
+		i -=10;
+		i -=30
+		//修改冲突
 	System.out.println(i);
     }
 }
